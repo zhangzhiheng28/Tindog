@@ -1,2 +1,1 @@
-# Tindog
-A demo website created by Bootstrap5 
+TinDog Starting Files
